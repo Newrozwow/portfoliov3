@@ -9,6 +9,7 @@ const ProjectsPage = () => {
         <div className="project-card">
           <img src="./aalborgGade (3).png" alt="Aalborg Garden" /> 
           <p>Aalborg Garden</p>
+          <Link to="/projects/aalborg-garden">View Project</Link>
         </div>
         <div className="project-card">
           <img src="./project1.png" alt="Magisk Jul i Skulpturparken" /> 
